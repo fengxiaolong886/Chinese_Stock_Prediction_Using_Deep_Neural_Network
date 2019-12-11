@@ -1,0 +1,360 @@
+\begin{thebibliography}{45}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Abadi u.\,a.(2016)Abadi, Agarwal, Barham, Brevdo, Chen, Citro,
+  Corrado, Davis, Dean, Devin, Ghemawat, Goodfellow, Harp, Irving, Isard, Jia,
+  J{\'{o}}zefowicz, Kaiser, Kudlur, Levenberg, Man{\'{e}}, Monga, Moore,
+  Murray, Olah, Schuster, Shlens, Steiner, Sutskever, Talwar, Tucker,
+  Vanhoucke, Vasudevan, Vi{\'{e}}gas, Vinyals, Warden, Wattenberg, Wicke, Yu,
+  u. Zheng]{DBLP:journals/corr/AbadiABBCCCDDDG16}
+\newblock TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed
+  Systems.
+\newblock {In: }\emph{CoRR} abs/1603.04467 (2016).
+\newblock \url{http://arxiv.org/abs/1603.04467}
+
+\bibitem[Agarap(2018)]{DBLP:journals/corr/abs-1803-08375}
+\newblock Deep Learning using Rectified Linear Units (ReLU).
+\newblock {In: }\emph{CoRR} abs/1803.08375 (2018).
+\newblock \url{http://arxiv.org/abs/1803.08375}
+
+\bibitem[Amos u. Yarats(2019)]{DBLP:journals/corr/abs-1909-12830}
+\newblock The Differentiable Cross-Entropy Method.
+\newblock {In: }\emph{CoRR} abs/1909.12830 (2019).
+\newblock \url{http://arxiv.org/abs/1909.12830}
+
+\bibitem[Armano u.\,a.(2005)Armano, Marchesi, u.
+  Murru]{DBLP:journals/isci/ArmanoMM05}
+\newblock A hybrid genetic-neural architecture for stock indexes forecasting.
+\newblock {In: }\emph{Inf. Sci.} 170 (2005), Nr. 1, 3--33.
+\newblock \url{http://dx.doi.org/10.1016/j.ins.2003.03.023}. --
+\newblock DOI 10.1016/j.ins.2003.03.023
+
+\bibitem[Atsalakis u. Valavanis(2009)]{DBLP:journals/eswa/AtsalakisV09}
+\newblock Forecasting stock market short-term trends using a neuro-fuzzy based
+  methodology.
+\newblock {In: }\emph{Expert Syst. Appl.} 36 (2009), Nr. 7, 10696--10707.
+\newblock \url{http://dx.doi.org/10.1016/j.eswa.2009.02.043}. --
+\newblock DOI 10.1016/j.eswa.2009.02.043
+
+\bibitem[Bollen u.\,a.(2011)Bollen, Mao, u.
+  Zeng]{DBLP:journals/jocs/BollenMZ11}
+\newblock Twitter mood predicts the stock market.
+\newblock {In: }\emph{J. Comput. Science} 2 (2011), Nr. 1, 1--8.
+\newblock \url{http://dx.doi.org/10.1016/j.jocs.2010.12.007}. --
+\newblock DOI 10.1016/j.jocs.2010.12.007
+
+\bibitem[Botev u.\,a.(2016)Botev, Lever, u.
+  Barber]{DBLP:journals/corr/BotevLB16}
+\newblock Nesterov's Accelerated Gradient and Momentum as approximations to
+  Regularised Update Descent.
+\newblock {In: }\emph{CoRR} abs/1607.01981 (2016).
+\newblock \url{http://arxiv.org/abs/1607.01981}
+
+\bibitem[Cao u. Tay(2003)]{DBLP:journals/tnn/CaoT03}
+\newblock Support vector machine with adaptive parameters in financial time
+  series forecasting.
+\newblock {In: }\emph{{IEEE} Trans. Neural Networks} 14 (2003), Nr. 6,
+  1506--1518.
+\newblock \url{http://dx.doi.org/10.1109/TNN.2003.820556}. --
+\newblock DOI 10.1109/TNN.2003.820556
+
+\bibitem[Cheung u.\,a.(2019)Cheung, Chinn, Pascual, u.
+  Zhang]{cheung2019exchange}
+\newblock Exchange rate prediction redux: new models, new data, new currencies.
+\newblock {In: }\emph{Journal of International Money and Finance} 95 (2019), S.
+  332--362
+
+\bibitem[Cho u.\,a.(2014{\natexlab{a}})Cho, van Merrienboer,
+  G{\"{u}}l{\c{c}}ehre, Bahdanau, Bougares, Schwenk, u.
+  Bengio]{DBLP:conf/emnlp/ChoMGBBSB14}
+\newblock Learning Phrase Representations using {RNN} Encoder-Decoder for
+  Statistical Machine Translation.
+\newblock {In: }\emph{Proceedings of the 2014 Conference on Empirical Methods
+  in Natural Language Processing, {EMNLP} 2014, October 25-29, 2014, Doha,
+  Qatar, {A} meeting of SIGDAT, a Special Interest Group of the {ACL}}, 2014,
+  S. 1724--1734
+
+\bibitem[Cho u.\,a.(2014{\natexlab{b}})Cho, van Merrienboer,
+  G{\"{u}}l{\c{c}}ehre, Bougares, Schwenk, u.
+  Bengio]{DBLP:journals/corr/ChoMGBSB14}
+\newblock Learning Phrase Representations using {RNN} Encoder-Decoder for
+  Statistical Machine Translation.
+\newblock {In: }\emph{CoRR} abs/1406.1078 (2014).
+\newblock \url{http://arxiv.org/abs/1406.1078}
+
+\bibitem[Chung u.\,a.(2014)Chung, G{\"{u}}l{\c{c}}ehre, Cho, u.
+  Bengio]{DBLP:journals/corr/ChungGCB14}
+\newblock Empirical Evaluation of Gated Recurrent Neural Networks on Sequence
+  Modeling.
+\newblock {In: }\emph{CoRR} abs/1412.3555 (2014).
+\newblock \url{http://arxiv.org/abs/1412.3555}
+
+\bibitem[Clevert u.\,a.(2015)Clevert, Unterthiner, u.
+  Hochreiter]{Clevert2015Fast}
+\newblock Fast and Accurate Deep Network Learning by Exponential Linear Units
+  (ELUs).
+\newblock {In: }\emph{Computer Science}  (2015)
+
+\bibitem[Colas u.\,a.(2018)Colas, Sigaud, u.
+  Oudeyer]{DBLP:journals/corr/abs-1806-08295}
+\newblock How Many Random Seeds? Statistical Power Analysis in Deep
+  Reinforcement Learning Experiments.
+\newblock {In: }\emph{CoRR} abs/1806.08295 (2018).
+\newblock \url{http://arxiv.org/abs/1806.08295}
+
+\bibitem[Creswell u.\,a.(2017)Creswell, White, Dumoulin, Arulkumaran, Sengupta,
+  u. Bharath]{DBLP:journals/corr/abs-1710-07035}
+\newblock Generative Adversarial Networks: An Overview.
+\newblock {In: }\emph{CoRR} abs/1710.07035 (2017).
+\newblock \url{http://arxiv.org/abs/1710.07035}
+
+\bibitem[Devlin u.\,a.(2018)Devlin, Chang, Lee, u.
+  Toutanova]{DBLP:journals/corr/abs-1810-04805}
+\newblock {BERT:} Pre-training of Deep Bidirectional Transformers for Language
+  Understanding.
+\newblock {In: }\emph{CoRR} abs/1810.04805 (2018).
+\newblock \url{http://arxiv.org/abs/1810.04805}
+
+\bibitem[Duda(2019)]{DBLP:journals/corr/abs-1907-07063}
+\newblock {SGD} momentum optimizer with step estimation by online parabola
+  model.
+\newblock {In: }\emph{CoRR} abs/1907.07063 (2019).
+\newblock \url{http://arxiv.org/abs/1907.07063}
+
+\bibitem[Elfwing u.\,a.(2017)Elfwing, Uchibe, u.
+  Doya]{DBLP:journals/corr/ElfwingUD17}
+\newblock Sigmoid-Weighted Linear Units for Neural Network Function
+  Approximation in Reinforcement Learning.
+\newblock {In: }\emph{CoRR} abs/1702.03118 (2017).
+\newblock \url{http://arxiv.org/abs/1702.03118}
+
+\bibitem[Elman(1990)]{DBLP:journals/cogsci/Elman90}
+\newblock Finding Structure in Time.
+\newblock {In: }\emph{Cognitive Science} 14 (1990), Nr. 2, 179--211.
+\newblock \url{http://dx.doi.org/10.1207/s15516709cog1402\_1}. --
+\newblock DOI 10.1207/s15516709cog1402\_1
+
+\bibitem[Goodfellow u.\,a.(2016)Goodfellow, Bengio, u.
+  Courville]{DBLP:books/daglib/0040158}
+\newblock \emph{Deep Learning}.
+\newblock {MIT} Press, 2016 (Adaptive computation and machine learning).
+\newblock \url{http://www.deeplearningbook.org/}. --
+\newblock ISBN 978--0--262--03561--3
+
+\bibitem[Goodfellow u.\,a.(2013)Goodfellow, Warde{-}Farley, Mirza, Courville,
+  u. Bengio]{DBLP:journals/corr/abs-1302-4389}
+\newblock Maxout Networks.
+\newblock {In: }\emph{CoRR} abs/1302.4389 (2013).
+\newblock \url{http://arxiv.org/abs/1302.4389}
+
+\bibitem[He u.\,a.(2015)He, Zhang, Ren, u. Sun]{DBLP:journals/corr/HeZRS15}
+\newblock Deep Residual Learning for Image Recognition.
+\newblock {In: }\emph{CoRR} abs/1512.03385 (2015).
+\newblock \url{http://arxiv.org/abs/1512.03385}
+
+\bibitem[Hihi u. Bengio(1995)]{DBLP:conf/nips/HihiB95}
+\newblock Hierarchical Recurrent Neural Networks for Long-Term Dependencies.
+\newblock {In: }\emph{Advances in Neural Information Processing Systems 8,
+  NIPS, Denver, CO, USA, November 27-30, 1995}, 1995, S. 493--499
+
+\bibitem[Hochreiter u. Schmidhuber(1997)]{hochreiter1997long}
+\newblock Long short-term memory.
+\newblock {In: }\emph{Neural computation} 9 (1997), Nr. 8, S. 1735--1780
+
+\bibitem[Hsieh u.\,a.(2011)Hsieh, Hsiao, u. Yeh]{DBLP:journals/asc/HsiehHY11}
+\newblock Forecasting stock markets using wavelet transforms and recurrent
+  neural networks: An integrated system based on artificial bee colony
+  algorithm.
+\newblock {In: }\emph{Appl. Soft Comput.} 11 (2011), Nr. 2, 2510--2525.
+\newblock \url{http://dx.doi.org/10.1016/j.asoc.2010.09.007}. --
+\newblock DOI 10.1016/j.asoc.2010.09.007
+
+\bibitem[Huang u.\,a.(2008)Huang, Yang, u.
+  Chuang]{DBLP:journals/eswa/HuangYC08}
+\newblock Application of wrapper approach and composite classifier to the stock
+  trend prediction.
+\newblock {In: }\emph{Expert Syst. Appl.} 34 (2008), Nr. 4, 2870--2878.
+\newblock \url{http://dx.doi.org/10.1016/j.eswa.2007.05.035}. --
+\newblock DOI 10.1016/j.eswa.2007.05.035
+
+\bibitem[Jaderberg u.\,a.(2015)Jaderberg, Simonyan, Zisserman, u.
+  Kavukcuoglu]{DBLP:journals/corr/JaderbergSZK15}
+\newblock Spatial Transformer Networks.
+\newblock {In: }\emph{CoRR} abs/1506.02025 (2015).
+\newblock \url{http://arxiv.org/abs/1506.02025}
+
+\bibitem[Kercheval u. Yuan(2015)]{Kercheval2015Modelling}
+\newblock Modelling high-frequency limit order book dynamics with support
+  vector machines.
+\newblock {In: }\emph{Quantitative Finance} 15 (2015), Nr. 8, S. 1--15
+
+\bibitem[Kim(2003)]{DBLP:journals/ijon/Kim03}
+\newblock Financial time series forecasting using support vector machines.
+\newblock {In: }\emph{Neurocomputing} 55 (2003), Nr. 1-2, 307--319.
+\newblock \url{http://dx.doi.org/10.1016/S0925-2312(03)00372-2}. --
+\newblock DOI 10.1016/S0925--2312(03)00372--2
+
+\bibitem[Kim u.\,a.(2017)Kim, Ahn, Oh, u. Enke]{DBLP:journals/asc/KimAOE17}
+\newblock An intelligent hybrid trading system for discovering trading rules
+  for the futures market using rough sets and genetic algorithms.
+\newblock {In: }\emph{Appl. Soft Comput.} 55 (2017), 127--140.
+\newblock \url{http://dx.doi.org/10.1016/j.asoc.2017.02.006}. --
+\newblock DOI 10.1016/j.asoc.2017.02.006
+
+\bibitem[Krizhevsky u.\,a.(2012)Krizhevsky, Sutskever, u.
+  Hinton]{DBLP:conf/nips/KrizhevskySH12}
+\newblock ImageNet Classification with Deep Convolutional Neural Networks.
+\newblock {In: }\emph{Advances in Neural Information Processing Systems 25:
+  26th Annual Conference on Neural Information Processing Systems 2012.
+  Proceedings of a meeting held December 3-6, 2012, Lake Tahoe, Nevada, United
+  States}, 2012, S. 1106--1114
+
+\bibitem[Lee u. Ready(1991)]{lee1991inferring}
+\newblock Inferring trade direction from intraday data.
+\newblock {In: }\emph{The Journal of Finance} 46 (1991), Nr. 2, S. 733--746
+
+\bibitem[Leung u.\,a.(2000)Leung, Daouk, u. Chen]{leung2000forecasting}
+\newblock Forecasting stock indices: a comparison of classification and level
+  estimation models.
+\newblock {In: }\emph{International Journal of Forecasting} 16 (2000), Nr. 2,
+  S. 173--190
+
+\bibitem[Li u.\,a.(2016)Li, Xie, Wang, Cai, Cao, Wang, Min, u.
+  Deng]{DBLP:journals/nca/LiXWCCWMD16}
+\newblock Empirical analysis: stock market prediction via extreme learning
+  machine.
+\newblock {In: }\emph{Neural Computing and Applications} 27 (2016), Nr. 1,
+  67--78.
+\newblock \url{http://dx.doi.org/10.1007/s00521-014-1550-z}. --
+\newblock DOI 10.1007/s00521--014--1550--z
+
+\bibitem[Lin u.\,a.(2017)Lin, Guo, u. Aberer]{DBLP:conf/ijcai/LinGA17}
+\newblock Hybrid Neural Networks for Learning the Trend in Time Series.
+\newblock {In: }\emph{Proceedings of the Twenty-Sixth International Joint
+  Conference on Artificial Intelligence, {IJCAI} 2017, Melbourne, Australia,
+  August 19-25, 2017}, 2017, S. 2273--2279
+
+\bibitem[Liu u. Wang(2019)]{DBLP:journals/access/LiuW19}
+\newblock A Numerical-Based Attention Method for Stock Market Prediction With
+  Dual Information.
+\newblock {In: }\emph{{IEEE} Access} 7 (2019), 7357--7367.
+\newblock \url{http://dx.doi.org/10.1109/ACCESS.2018.2886367}. --
+\newblock DOI 10.1109/ACCESS.2018.2886367
+
+\bibitem[Murugan u. Durairaj(2017)]{DBLP:journals/corr/abs-1712-04711}
+\newblock Regularization and Optimization strategies in Deep Convolutional
+  Neural Network.
+\newblock {In: }\emph{CoRR} abs/1712.04711 (2017).
+\newblock \url{http://arxiv.org/abs/1712.04711}
+
+\bibitem[Nakamura u. Hong(2019)]{DBLP:journals/corr/abs-1907-08931}
+\newblock Adaptive Weight Decay for Deep Neural Networks.
+\newblock {In: }\emph{CoRR} abs/1907.08931 (2019).
+\newblock \url{http://arxiv.org/abs/1907.08931}
+
+\bibitem[Nwankpa u.\,a.(2018)Nwankpa, Ijomah, Gachagan, u.
+  Marshall]{DBLP:journals/corr/abs-1811-03378}
+\newblock Activation Functions: Comparison of trends in Practice and Research
+  for Deep Learning.
+\newblock {In: }\emph{CoRR} abs/1811.03378 (2018).
+\newblock \url{http://arxiv.org/abs/1811.03378}
+
+\bibitem[Pascanu u.\,a.(2012)Pascanu, Mikolov, u.
+  Bengio]{DBLP:journals/corr/abs-1211-5063}
+\newblock Understanding the exploding gradient problem.
+\newblock {In: }\emph{CoRR} abs/1211.5063 (2012).
+\newblock \url{http://arxiv.org/abs/1211.5063}
+
+\bibitem[Peng u.\,a.(2019)Peng, Li, u. Wang]{DBLP:journals/corr/abs-1903-04192}
+\newblock Accelerating Minibatch Stochastic Gradient Descent using Typicality
+  Sampling.
+\newblock {In: }\emph{CoRR} abs/1903.04192 (2019).
+\newblock \url{http://arxiv.org/abs/1903.04192}
+
+\bibitem[Ruder(2016)]{DBLP:journals/corr/Ruder16}
+\newblock An overview of gradient descent optimization algorithms.
+\newblock {In: }\emph{CoRR} abs/1609.04747 (2016).
+\newblock \url{http://arxiv.org/abs/1609.04747}
+
+\bibitem[Schumaker u. Chen(2009)]{DBLP:journals/tois/SchumakerC09}
+\newblock Textual analysis of stock market prediction using breaking financial
+  news: The AZFin text system.
+\newblock {In: }\emph{{ACM} Trans. Inf. Syst.} 27 (2009), Nr. 2, 12:1--12:19.
+\newblock \url{http://dx.doi.org/10.1145/1462198.1462204}. --
+\newblock DOI 10.1145/1462198.1462204
+
+\bibitem[Schuster u. Paliwal(1997)]{schuster1997bidirectional}
+\newblock Bidirectional recurrent neural networks.
+\newblock {In: }\emph{IEEE Transactions on Signal Processing} 45 (1997), Nr.
+  11, S. 2673--2681
+
+\bibitem[Simonyan u. Zisserman(2017)]{simonyan2017very}
+\newblock Very Deep Convolutional Networks for Large-Scale Image Recognition.
+  CoRR. 2014;: abs/1409.1556.
+\newblock {In: }\emph{arXiv preprint arXiv:1409.1556}  (2017)
+
+\bibitem[Szegedy u.\,a.(2014)Szegedy, Liu, Jia, Sermanet, Reed, Anguelov,
+  Erhan, Vanhoucke, u. Rabinovich]{DBLP:journals/corr/SzegedyLJSRAEVR14}
+\newblock Going Deeper with Convolutions.
+\newblock {In: }\emph{CoRR} abs/1409.4842 (2014).
+\newblock \url{http://arxiv.org/abs/1409.4842}
+
+\bibitem[Wang(2014)]{DBLP:journals/ijbidm/Wang14}
+\newblock Stock price direction prediction by directly using prices data: an
+  empirical study on the {KOSPI} and {HSI}.
+\newblock {In: }\emph{{IJBIDM}} 9 (2014), Nr. 2, 145--160.
+\newblock \url{http://dx.doi.org/10.1504/IJBIDM.2014.065091}. --
+\newblock DOI 10.1504/IJBIDM.2014.065091
+
+\bibitem[Wang u. Choi(2013)]{DBLP:journals/corr/WangC13b}
+\newblock Market Index and Stock Price Direction Prediction using Machine
+  Learning Techniques: An empirical study on the {KOSPI} and {HSI}.
+\newblock {In: }\emph{CoRR} abs/1309.7119 (2013).
+\newblock \url{http://arxiv.org/abs/1309.7119}
+
+\bibitem[Wang u.\,a.(2019)Wang, Wei, u.
+  Brooks]{DBLP:journals/corr/abs-1907-10701}
+\newblock Benchmarking TPU, GPU, and {CPU} Platforms for Deep Learning.
+\newblock {In: }\emph{CoRR} abs/1907.10701 (2019).
+\newblock \url{http://arxiv.org/abs/1907.10701}
+
+\bibitem[Ward u.\,a.(2018)Ward, Wu, u.
+  Bottou]{DBLP:journals/corr/abs-1806-01811}
+\newblock AdaGrad stepsizes: Sharp convergence over nonconvex landscapes, from
+  any initialization.
+\newblock {In: }\emph{CoRR} abs/1806.01811 (2018).
+\newblock \url{http://arxiv.org/abs/1806.01811}
+
+\bibitem[Young u.\,a.(2017)Young, Hazarika, Poria, u.
+  Cambria]{DBLP:journals/corr/abs-1708-02709}
+\newblock Recent Trends in Deep Learning Based Natural Language Processing.
+\newblock {In: }\emph{CoRR} abs/1708.02709 (2017).
+\newblock \url{http://arxiv.org/abs/1708.02709}
+
+\bibitem[Zeiler(2012)]{DBLP:journals/corr/abs-1212-5701}
+\newblock {ADADELTA:} An Adaptive Learning Rate Method.
+\newblock {In: }\emph{CoRR} abs/1212.5701 (2012).
+\newblock \url{http://arxiv.org/abs/1212.5701}
+
+\bibitem[Zhai u.\,a.(2007)Zhai, Hsu, u. Halgamuge]{DBLP:conf/isnn/ZhaiHH07}
+\newblock Combining News and Technical Indicators in Daily Stock Price Trends
+  Prediction.
+\newblock {In: }\emph{Advances in Neural Networks - {ISNN} 2007, 4th
+  International Symposium on Neural Networks, {ISNN} 2007, Nanjing, China, June
+  3-7, 2007, Proceedings, Part {III}}, 2007, S. 1087--1096
+
+\bibitem[Zhang u.\,a.(2017)Zhang, Zou, u. Wei]{Zhang2017Dilated}
+\newblock Dilated convolution neural network with LeakyReLU for environmental
+  sound classification.
+\newblock {In: }\emph{2017 22nd International Conference on Digital Signal
+  Processing (DSP)}, 2017
+
+\bibitem[Zirilli(1996)]{zirilli1996financial}
+\newblock \emph{Financial prediction using neural networks}.
+\newblock International Thomson Computer Press, 1996
+
+\end{thebibliography}
